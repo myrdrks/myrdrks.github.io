@@ -8,14 +8,14 @@ version: 2
 # Personal info
 name: Philip Meyerdierks
 title: Full Stack Webdeveloper
-email: philip.meyerdierks@gmail.com
-website: www.myrdrks.de
+email: philip@myrdrks.de
+website: myrdrks.de
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: myrdrks
+# twitter_username: myrdrks
 github_username:  myrdrks
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -31,9 +31,9 @@ linkedin_username: philip-meyerdierks-476a0392
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: myrdrks.de
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.myrdrks.de
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,25 +48,24 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hej, my name is Philip, I'm a 34 years old full stack webdeveloper from Bremen, Germany.
-  As a full stack developer my set of skills is long and is getting even longer with the time.
-  So let's start from the bottom:
-  - Hosting servers
-  - Manage & maintain server software
-  - Routing networks
-  - Creating & designing database architechtures
-  - Orchestrate containers
-  - Setting up webservers and proxys
-  - Creating business logics
-  - Developing back ends
-  - Applying action layers & APIs
-  - Designing user interfaces
-  - Complete everything with customers needs and user experience
+  Hello, my name is Philip. I am a full stack web developer in my mid-thirties residing in Bremen, Germany.
+  Over time, I have developed an extensive skill set that continues to grow. Here's a summary starting from foundational skills:
+  - Hosting servers and managing server software
+  - Creating secure network routes
+  - Designing and implementing database architectures
+  - Orchestrating containers for application deployment
+  - Configuring webservers and proxies
+  - Crafting business logic to meet specific requirements
+  - Developing back end systems for web applications
+  - Implementing interfaces through APIs
+  - Designing user interfaces with a focus on usability and aesthetic appeal
+  - Ensuring customer needs are met and providing an excellent user experience
 
-  These are my favorite tools, frameworks & librarys (unsorted list):
+  Below is a list of some of my favorite tools, frameworks, and libraries:
 
-  <mark>React</mark> <mark>Meteor</mark> <mark>Express</mark> <mark>GraphQL</mark> <mark>Svelte</mark> <mark>Vue</mark> <mark>Nginx</mark> <mark>Node.js</mark> <mark>MongoDB</mark> <mark>MySQL</mark> <mark>Remix</mark> <mark>Svelte</mark>
+  <mark>React</mark> <mark>TypeScript</mark> <mark>NestJS</mark> <mark>GraphQL</mark> <mark>Svelte</mark> <mark>Vue</mark> <mark>Nginx</mark> <mark>Node.js</mark> <mark>MongoDB</mark> <mark>MySQL</mark> <mark>Remix</mark> <mark>Docker</mark> <mark>Proxmox</mark> <mark>AWS</mark> <mark>MQTT</mark> <mark>Adobe XD</mark> <mark>PostgreSQL</mark>
 
+  As technology advances, I continuously learn and adapt to ensure I provide the best solutions to the challenges at hand.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -99,15 +98,13 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            At this lovely company I started my career as a webdeveloper. From zero to the moon in very short (almost 10 years now) time.
-            
-            But before that I ended my professional training as a photographer here. My colleagues discovered new business fields and photography jobs were rare sometimes. So I learned JavaScript and PHP by myself to fit into the new business fields.
-            
-            So we started a pilot project with a longtime customer who trusts us, where I could test my skills. Luckily the project had a very graceful deadline. But in the end the customer was happy and so was I.
-            
-            Now we develop very close to our customers special web based software to fit their needs.
-            
-            Most of the work is for b2b purposes like digital asset management, approval processes & other business stuff.
+          I initiated my web development career at this esteemed company, rapidly progressing over nearly a decade from novice to expert.
+
+          Previously trained as a photographer, I found photography opportunities dwindling as the company branched into new business sectors. To adapt, I independently learned JavaScript and PHP, expanding my skill set to accommodate the changing landscape.
+
+          My newfound skills were put to test in a pilot project with a long-standing client, providing a favorable environment for practical application and growth. Despite a generous deadline, the successful completion of the project brought satisfaction to both the client and myself.
+
+          Today, we work closely with our clients to develop tailored web-based software solutions, primarily serving B2B needs like digital asset management, approval processes, and other business functions.  
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -122,17 +119,15 @@ content:
           In 2010 I started a professional training as a photographer at a small photostudio for portraits and advertising near Bremen.
           I soon realized that taking photos of people is not my biggest skill. So I focused on product and advertisement photography. In 2013 I successfully graduated.
   
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #     - Rock climbing
-  #     - Gaming
-  #     - Knitting
-  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-  #     Look at this cool image  
-  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Boating
+      - Geocaching
+      - 3D Printing
+      - Home Automation
+      - Voluntary Work at [Kinder- und Jugendförderverein Platjenwerbe e.V.](https://kijuv.de) & [Heimatverein Platjenwerbe e.V.](https://hv-platjenwerbe.de)
 
 # Footer
 footer_show_references: true
